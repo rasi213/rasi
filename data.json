@@ -1,0 +1,47 @@
+{"basics":{
+  "image":"flower.jpg",
+  "name":"rasi",
+  "phoneno":"+91 7966778899",
+  "email":"raasisuragam@gmail.com",
+  "address":"SRKR ENG COLLEGE, BHIMAVARAM."
+},
+"careerobjective":{
+  "info": "To obtain a significant and challenging position as a programmer wherein I will learn and excel in this process. A job that provides me a scope for growth in the IT sector."
+},
+"education":[
+{
+"degree":"B.tech",
+"institute":"SRKR ENG COLLEGE",
+"data":["2016-2020","93%" ]
+},
+{
+"degree":"Intermediate",
+"institute":"SRI CHAITANYA JUNIOR COLLEGE",
+"data":["2016-2020","98%"]
+},
+{
+"degree":"SSC",
+"institute":"SRI CHAITANYA SCHOOL",
+"data":["2016-2020","98%" ]
+}
+],
+"skills":[
+  {
+  "title":"languages",
+  "data":["c","c++","java","python"]
+},
+{
+"title":"database",
+"data":["oracle","sql","mysql"]
+},
+{
+"title":"operating ststems",
+"data":["sql","mysql","oracle"]
+}
+],
+"achievements":{
+  "ppt":"PPT PRESENTATION :secured 1st prize",
+  "debate":"DEBATE :secured 3rd prize",
+  "code":"CODE MASTER : 83rd position in college"
+}
+}
